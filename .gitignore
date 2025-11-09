@@ -9,11 +9,14 @@
 *.log
 *.log.*
 *.sig
-
+*.jpg
+.jpg
 pkg/
 venv/
+src/data/
 src/projeto_3/data/
 *.pkl
 *.h5
 *.csv
 *.zip
+data/
